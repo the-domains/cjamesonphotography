@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[cjamesonphotography]]></title>
         <description><![CDATA[cjamesonphotography]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cjamesonphotography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 23 Oct 2015 03:39:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 23 Oct 2015 03:44:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cjamesonphotography/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Who am I?]]></title>
+            <description><![CDATA[<h1>Who am I?</h1>]]></description>
+            <link>https://thegrid.ai/cjamesonphotography/who-am-i/index.html</link>
+            <guid isPermaLink="false">68bcbb38-1089-4552-92dd-a56b329b31ef</guid>
+            <pubDate>Fri, 23 Oct 2015 03:44:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Lake Waco]]></title>
             <description><![CDATA[<h1>Lake Waco</h1>]]></description>
-            <link>undefinedlake-waco/index.html</link>
+            <link>https://thegrid.ai/cjamesonphotography/lake-waco/index.html</link>
             <guid isPermaLink="false">72c37e86-3d0d-4157-a2d3-6e13457db490</guid>
             <pubDate>Fri, 23 Oct 2015 03:39:02 GMT</pubDate>
         </item>
