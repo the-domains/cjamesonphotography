@@ -1,0 +1,23 @@
+name: cjamesonphotography
+favicon: null
+layout_spectrum: 0.0005024031270295382
+typography_spectrum: 0.8374897460453212
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.07906043529510498
+  lightness: 0.4016742066014558
+  saturation: 0.04320186981931329
+  rhythmicContrast: 0.2532086023129523
+purpose: []
